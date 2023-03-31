@@ -22,6 +22,7 @@
     <img align="center" height="30" width="40" alt="js-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <img align="center" height="30" width="40" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" height="30" width="40" alt="java-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    <img align="center" height="30" width="40" alt="spring-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
     <img align="center" height="30" width="40" alt="figma-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   </div>
 <br>
